@@ -45,7 +45,6 @@ body {
 .car-icon {
     height: 3rem;
     width: 100px;
-    background-image: url("/images/icon-sedans.svg");
     background-repeat: no-repeat;
     background-size: contain;
 }
