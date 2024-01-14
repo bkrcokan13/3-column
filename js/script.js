@@ -9,7 +9,7 @@ function getCars() {
         {
             category: "SEDANS",
             description: "Choose a sedan for its affordability and excellent fuel economy. Ideal for cruising in the city or on your next road trip.",
-            carIcon: "/images/icon-sedans.svg"
+            carIcon: "images/icon-sedans.svg"
         },
         {
             category: "SUVS",
