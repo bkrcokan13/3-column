@@ -95,6 +95,11 @@ body {
         flex-direction: column;
     }
     .car-description {
-        gap:5rem;
+        gap:1rem;
+        font-size: 12px;
+    }
+
+    .car-card {
+        gap: 30px;
     }
 }
