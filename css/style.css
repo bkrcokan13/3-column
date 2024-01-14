@@ -89,7 +89,6 @@ body {
 
 
 
-
 @media (max-width:640px) {
     .container {
         flex-direction: column;
@@ -101,5 +100,23 @@ body {
 
     .car-card {
         gap: 30px;
+    }
+}
+
+@media (max-width:375px) {
+    .container {
+        flex-direction: column;
+    }
+    .car-description {
+        gap:1rem;
+        font-size: 12px;
+    }
+
+    .car-card {
+        gap: 30px;
+    }
+
+    .car-description > a {
+        padding: 9px 20px;
     }
 }
