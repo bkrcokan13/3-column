@@ -14,7 +14,7 @@ A dynamic and responsive three-column layout built using HTML, CSS, and JavaScri
 
 ## Demo
 
-Check out the live demo: [Three Column Layout Demo](#) *(Replace `#` with the actual link if available)*
+Check out the live demo: [Three Column Layout Demo](https://bkrcokan13.github.io/three-column.github.io/)
 
 ## Features
 
