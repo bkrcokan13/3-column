@@ -48,7 +48,7 @@ Check out the live demo: [Three Column Layout Demo](https://bkrcokan13.github.io
 
 Here is a screenshot of the Three Column Layout:
 
-![Three Column Layout Screenshot](screenshot.png) *(Make sure to add a screenshot image to your repo and update the path accordingly)*
+![Three Column Layout Screenshot](screenshot.png)
 
 ## License
 
